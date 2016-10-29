@@ -1,0 +1,15 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Add offer</title>
+</head>
+<body>
+ <select>
+  <option value="BugerKings">BugerKings</option>
+  <option value="KZone">KZone</option>
+  <option value="PizzaHut">Pizza Hut</option>
+  <option value="Dominorse">Dominorse</option>
+</select> 
+
+</body>
+</html> 

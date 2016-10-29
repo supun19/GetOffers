@@ -1,0 +1,45 @@
+.wrapper{
+	padding: 40px;
+    background-color: gainsboro;
+    border-radius: 5px;
+}
+
+.wrapper-white{
+	padding: 40px;
+	padding-bottom: 20px;
+    background-color: white;
+    border-radius: 5px;	
+}
+
+.brand-area{
+	background-color: gainsboro;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 40px;
+
+}
+
+.main-wrapper{
+	margin-top: 30px;
+}
+.app-header{
+	text-align: center;
+	background-color: gainsboro;
+    padding: 15px;
+
+}
+
+.app-text{
+	text-align: center;
+	background-color: gainsboro;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+
+.main-login{
+	margin-top: 40px;
+}

@@ -1,0 +1,16 @@
+.product div img{
+	padding: 10px;
+}
+
+.main-header{
+	text-align: center;
+	margin-bottom: 20px;
+}
+.product{
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+
+.product div form button{
+	margin-top: 21px;
+}
