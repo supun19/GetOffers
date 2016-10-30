@@ -1,0 +1,2 @@
+2016-10-29 15:39:17 - DEBUG --> Received msisdn = tel:94771122336 
+2016-10-29 15:39:17 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-29 19:09:17","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477748357979","version":"1.0"} 

@@ -1,0 +1,2 @@
+2016-10-30 9:33:28 - DEBUG --> Request: {"applicationId":"APP_029687","password":"61edd1efc9c45174a95486715753cc7c","subscriberId":"tel:94771234567","serviceType":"IMMEDIATE","responseTime":"DELAY_TOLERANCE","freshness":"LOW","horizontalAccuracy":"1000"} 
+2016-10-30 9:33:28 - DEBUG --> Response:{"timeStamp":"2016-10-30T15:03:28+0530","latitude":"6.9167","horizontalAccuracy":"7.00","messageId":"1477820008474","subscriberState":"True","statusDetail":"Success","freshness":"100","version":"1.0","statusCode":"S1000","longitude":"79.8333"} 

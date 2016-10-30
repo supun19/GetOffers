@@ -1,0 +1,92 @@
+2016-10-30 9:29:32 - DEBUG --> Received msisdn = tel:94771234567 
+2016-10-30 9:29:32 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 14:59:32","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819772372","version":"1.0"} 
+2016-10-30 9:29:32 - DEBUG --> Received msisdn = 77123456789 
+2016-10-30 9:29:32 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 14:59:32","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819772451","version":"1.0"} 
+2016-10-30 9:29:32 - DEBUG --> Received msisdn = 774567894 
+2016-10-30 9:29:32 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 14:59:32","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819772899","version":"1.0"} 
+2016-10-30 9:29:33 - DEBUG --> Received msisdn = jkjkjkkj 
+2016-10-30 9:29:33 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 14:59:33","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819773560","version":"1.0"} 
+2016-10-30 9:29:34 - DEBUG --> Received msisdn = jkjkjkkj 
+2016-10-30 9:29:34 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 14:59:34","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819774031","version":"1.0"} 
+2016-10-30 9:29:34 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:29:34 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 14:59:34","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819774520","version":"1.0"} 
+2016-10-30 9:31:11 - DEBUG --> Received msisdn = tel:94771234567 
+2016-10-30 9:31:11 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:01:11","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819871343","version":"1.0"} 
+2016-10-30 9:31:11 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:31:11 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:01:11","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819871363","version":"1.0"} 
+2016-10-30 9:31:11 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:31:11 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:01:11","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819871809","version":"1.0"} 
+2016-10-30 9:31:12 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:31:12 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:01:12","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477819872352","version":"1.0"} 
+2016-10-30 9:34:16 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:34:16 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:04:16","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820056098","version":"1.0"} 
+2016-10-30 9:34:16 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:34:16 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:04:16","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820056568","version":"1.0"} 
+2016-10-30 9:34:17 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:34:17 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:04:17","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820057121","version":"1.0"} 
+2016-10-30 9:36:02 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:36:02 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:06:02","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820162792","version":"1.0"} 
+2016-10-30 9:36:03 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:36:03 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:06:03","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820163298","version":"1.0"} 
+2016-10-30 9:36:03 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:36:03 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:06:03","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820163809","version":"1.0"} 
+2016-10-30 9:37:55 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:37:55 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:07:55","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820275823","version":"1.0"} 
+2016-10-30 9:37:55 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:37:55 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:07:55","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820275853","version":"1.0"} 
+2016-10-30 9:37:55 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:37:55 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:07:55","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820275874","version":"1.0"} 
+2016-10-30 9:43:07 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:43:07 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:13:07","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820587128","version":"1.0"} 
+2016-10-30 9:43:07 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:43:07 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:13:07","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820587273","version":"1.0"} 
+2016-10-30 9:43:07 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:43:07 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:13:07","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820587408","version":"1.0"} 
+2016-10-30 9:43:34 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:43:34 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:13:34","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820614490","version":"1.0"} 
+2016-10-30 9:43:34 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:43:34 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:13:34","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820614515","version":"1.0"} 
+2016-10-30 9:43:34 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:43:34 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:13:34","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820614538","version":"1.0"} 
+2016-10-30 9:44:14 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:44:14 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:14:14","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820654642","version":"1.0"} 
+2016-10-30 9:44:14 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:44:14 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:14:14","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820654660","version":"1.0"} 
+2016-10-30 9:44:14 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:44:14 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:14:14","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820654680","version":"1.0"} 
+2016-10-30 9:45:23 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:45:23 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:15:23","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820723357","version":"1.0"} 
+2016-10-30 9:45:23 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:45:23 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:15:23","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820723379","version":"1.0"} 
+2016-10-30 9:45:23 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:45:23 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:15:23","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820723402","version":"1.0"} 
+2016-10-30 9:45:54 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:45:54 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:15:54","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820754535","version":"1.0"} 
+2016-10-30 9:45:54 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:45:54 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:15:54","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820754594","version":"1.0"} 
+2016-10-30 9:45:54 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:45:54 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:15:54","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820754643","version":"1.0"} 
+2016-10-30 9:46:13 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:46:13 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:16:13","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820773663","version":"1.0"} 
+2016-10-30 9:46:13 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:46:13 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:16:13","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820773683","version":"1.0"} 
+2016-10-30 9:46:13 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:46:13 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:16:13","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820773706","version":"1.0"} 
+2016-10-30 9:46:44 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:46:44 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:16:44","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820804813","version":"1.0"} 
+2016-10-30 9:46:45 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:46:45 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:16:45","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820805045","version":"1.0"} 
+2016-10-30 9:46:45 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:46:45 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:16:45","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820805297","version":"1.0"} 
+2016-10-30 9:47:26 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:47:26 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:17:26","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820846459","version":"1.0"} 
+2016-10-30 9:47:26 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:47:26 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:17:26","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820846682","version":"1.0"} 
+2016-10-30 9:47:26 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:47:26 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:17:26","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820846909","version":"1.0"} 
+2016-10-30 9:47:39 - DEBUG --> Received msisdn = 94771122445 
+2016-10-30 9:47:39 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:17:39","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820859094","version":"1.0"} 
+2016-10-30 9:47:39 - DEBUG --> Received msisdn = 94771122456 
+2016-10-30 9:47:39 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:17:39","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820859315","version":"1.0"} 
+2016-10-30 9:47:39 - DEBUG --> Received msisdn = 94771122336 
+2016-10-30 9:47:39 - DEBUG --> Lbs response:{"statusCode":"S1000","timeStamp":"2016-10-30 15:17:39","statusDetail":"Success","subscriberState":"True","horizontalAccuracy":"7.00","freshness":"100","longitude":"79.8333","latitude":"6.9167","messageId":"1477820859538","version":"1.0"} 
